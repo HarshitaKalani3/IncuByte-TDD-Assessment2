@@ -16,26 +16,26 @@ This project is a basic full-stack sweetshop management system using FastAPI in 
 5. Testing: Pytest & React Testing Library
 6. Editor: Visual Studio Code
 ## Clone Repo
-git clone https://github.com/HarshitaKalani3/IncuByte-TDD-Assessment2.git
-cd IncuByte-TDD-Assessment2
+git clone https://github.com/HarshitaKalani3/IncuByte-TDD-Assessment2.git  
+cd IncuByte-TDD-Assessment2  
 ## Backend SetUp Run
-'''bash
-cd backend
-python -m venv env
-Windows: env\Scripts\activate
-pip install -r requirements.txt
-alembic upgrade head
-uvicorn app.main:app --reload
-'''
+'''bash  
+cd backend  
+python -m venv env  
+Windows: env\Scripts\activate  
+pip install -r requirements.txt  
+alembic upgrade head  
+uvicorn app.main:app --reload  
+'''  
 ## Frontend SetUp Run
-'''bash
-cd frontend
-npm install
-npm start
+'''bash  
+cd frontend  
+npm install  
+npm start  
 '''
 ## Testing
-Run Backend Tests: Pytest -v
-Run Frontend Tests: npm test
+Run Backend Tests: Pytest -v  
+Run Frontend Tests: npm test  
 ## My AI Usage
 I used ChatGPT to help generate boilerplate code , write major Red-Green-Refactor Pattern, structuring API endpoints and write tests. I asked Chatgpt how to make even the boiler plate and basic commands to initialize like in vs code that I have used for my project which actually helped me to save time and settings of the above directory structure. I used it to actually solve all the errors of my code i.e. error handling. It helped me to reduce the amount of repetitive coding and it gave helpful suggestions in every step of my project.
 ## Screenshots
