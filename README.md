@@ -34,3 +34,5 @@ Run Backend Tests: Pytest -v
 Run Frontend Tests: npm test
 ## My AI Usage
 I used ChatGPT to help generate boilerplate code , write major Red-Green-Refactor Pattern and write tests. 
+## Author
+Harshita Kalani (https://github.com/HarshitaKalani3)
